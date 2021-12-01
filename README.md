@@ -7,8 +7,10 @@ The primary aim of WebJS is to enable web developers with little knowledge of Ja
 
 WebJS has a web based GUI for building web pages, without writing any HTML code
 <h3>Installation and Usage</h3>
-
+<p>
 <script src="WebJS.js">
 let window = new Window(); //GUI base window
 
 </script>
+
+</p>
